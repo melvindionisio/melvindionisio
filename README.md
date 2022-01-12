@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm a die-hard Spider-Man fan, I want to get bitten by a radioactive spider so bad 🕷️
 
 
-## &#x1f4c8; Some of my Github Stats
+## &#x1f4c8; My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=melvindionisio alt=melvindionisio /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=melvindionisio&show_icons=true&include_all_commits=true)](https://github.com/rajk3770/github-readme-stats)
@@ -21,12 +21,12 @@
 
 
 </br>
-
+<!--
 ### Contact me
 
 melvinnudo.dionisio021@gmail.com
 <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+-->
 <!--
 ## Hey 👋, This is Mark Anthony Estopace
 [![Gmail Badge](https://img.shields.io/badge/-estopace.ma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:estopace.ma@gmail.com)](mailto:estopace.ma@gmail.com) 
