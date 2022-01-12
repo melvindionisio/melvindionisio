@@ -16,8 +16,8 @@
 ## &#x1f4c8; My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=melvindionisio alt=melvindionisio /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=melvindionisio&show_icons=true&include_all_commits=true)](https://github.com/rajk3770/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvindionisio&layout=compact)](https://github.com/rajk3770/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=melvindionisio&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/rajk3770/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvindionisio&layout=compact&theme=gruvbox)](https://github.com/rajk3770/github-readme-stats)
 
 
 </br>
