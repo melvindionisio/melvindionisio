@@ -1,4 +1,7 @@
 ### Hello World, I am Melvin Dionisio 👽
+[![Gmail Badge](https://img.shields.io/badge/-melvinnudo.dionisio021@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:melvinnudo.dionisio021@gmail.com)](mailto:melvinnudo.dionisio021@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-melvindionisio-grey?style=flat&logo=github&logoColor=white&link=https://github.com/melvindionisio/)](https://www.github.com/melvindionisio/) 
+
 
 ### I'm an Aspiring Front-End Web Developer
 
