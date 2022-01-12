@@ -1,4 +1,4 @@
-### Hello World, I am Melvin Dionisio 👽
+## Hello World, I am Melvin Dionisio 👽
 [![Gmail Badge](https://img.shields.io/badge/-melvinnudo.dionisio021@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:melvinnudo.dionisio021@gmail.com)](mailto:melvinnudo.dionisio021@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-melvindionisio-grey?style=flat&logo=github&logoColor=white&link=https://github.com/melvindionisio/)](https://www.github.com/melvindionisio/) 
 
@@ -27,19 +27,9 @@
 melvinnudo.dionisio021@gmail.com
 <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 -->
-<!--
-## Hey 👋, This is Mark Anthony Estopace
-[![Gmail Badge](https://img.shields.io/badge/-estopace.ma@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:estopace.ma@gmail.com)](mailto:estopace.ma@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-EstopaceMA-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-anthony-estopace-093145160/)](https://www.linkedin.com/in/mark-anthony-estopace-093145160/) 
-[![Twitter Badge](https://img.shields.io/badge/-MA_Estopace-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MA_Estopace/)](https://www.twitter.com/MA_Estopace/) 
-[![Github Badge](https://img.shields.io/badge/-EstopaceMA-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EstopaceMA/)](https://www.github.com/EstopaceMA/) 
-<p align='left'>
-  I'm a graduate of Bachelor of Science in Information Technology. I am currently working as a Software Engineer and focusing more on Web Development and currently learning mobile development using react native and node for backend.
-</p>
--->
 
 <!--
-### Back-End and BE Framework Experties
+### Back-End and BE Framework Experience
 
 <p>
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
@@ -53,11 +43,8 @@ melvinnudo.dionisio021@gmail.com
 <p>
     <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
     <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/VueJS%20-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white">
 <p>
 
 
@@ -70,6 +57,7 @@ melvinnudo.dionisio021@gmail.com
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
 <p>
 -->
+
 <!--
 **melvindionisio/melvindionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
