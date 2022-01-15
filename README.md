@@ -15,6 +15,26 @@
 - ⚡ Fun fact: I'm a die-hard Spider-Man fan, I want to get bitten by a radioactive spider so bad 🕷️
 
 
+### Experiences
+
+<p>
+    <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<p>
+<p>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
+<p>
+<p>
+    <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NPM%20-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Yarn%20-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
+<p>
+
 ## &#x1f4c8; My Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=melvindionisio alt=melvindionisio /> </p>
 
@@ -30,32 +50,7 @@ melvinnudo.dionisio021@gmail.com
 <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 -->
 
-<!--
-### Back-End and BE Framework Experience
 
-<p>
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
-<p>
-
-### Front-End and FE Framework Experience
-<p>
-    <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<p>
-
-
-### Dev Tools
-<p>
-    <img src="https://img.shields.io/badge/Postman%20-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/NPM%20-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Yarn%20-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
-<p>
--->
 
 <!--
 **melvindionisio/melvindionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
