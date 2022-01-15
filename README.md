@@ -1,6 +1,7 @@
 ## Hello World, I am Melvin Dionisio 👽
 [![Gmail Badge](https://img.shields.io/badge/-melvinnudo.dionisio021@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:melvinnudo.dionisio021@gmail.com)](mailto:melvinnudo.dionisio021@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-melvindionisio-grey?style=flat&logo=github&logoColor=white&link=https://github.com/melvindionisio/)](https://www.github.com/melvindionisio/) 
+[![Linkedin Badge](https://img.shields.io/badge/-MelvinDionisio-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-dionisio-302b0b209/)](https://www.linkedin.com/in/melvin-dionisio-302b0b209/) 
 
 
 ### I'm an Aspiring Front-End Web Developer
