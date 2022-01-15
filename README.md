@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I'm a die-hard Spider-Man fan, I want to get bitten by a radioactive spider so bad 🕷️
 
 
-### Experiences
+### Experiences 🚧
 
 <p>
     <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
 <p>
 
-## &#x1f4c8; My Github Stats
+## My Github Stats &#x1f4c8;
 <p align=left> <img src=https://komarev.com/ghpvc/?username=melvindionisio alt=melvindionisio /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=melvindionisio&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/rajk3770/github-readme-stats)
