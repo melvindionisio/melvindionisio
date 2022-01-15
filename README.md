@@ -34,14 +34,11 @@ melvinnudo.dionisio021@gmail.com
 ### Back-End and BE Framework Experience
 
 <p>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge">
-    <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/codeigniter%20-F05032.svg?&style=for-the-badge&logo=codeigniter&logoColor=white">
 <p>
 
-### Front-End and FE Framework Experties
+### Front-End and FE Framework Experience
 <p>
     <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
     <img src = "https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
