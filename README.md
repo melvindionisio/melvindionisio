@@ -17,7 +17,7 @@ I am a 21 year-old Aspiring Web Developer.
 
 ## Experiences 🚧
 <p>
-*not totally good about some of this language and tools but I can accomplish what I needed to do 🙆
+*not totally good at some of this languages and tools but I can accomplish what I needed to do 🙆
 </p>
 
 <p>
