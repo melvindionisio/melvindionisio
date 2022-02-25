@@ -12,12 +12,13 @@ I am a 21 year-old Aspiring Web Developer.
 
 - 🔭 I’m currently working on our Capstone Project
 - 🌱 I’m currently learning ReactJS and NodeJS
+- I am open for work opportunities after graduation.
 
 
 
 ## Experiences 🚧
 <p>
-*not totally good at some of this languages and tools but I can accomplish what I needed to do 🙆
+*not totally good at some of this languages and tools but I can do what needs to be done🙆
 </p>
 
 <p>
