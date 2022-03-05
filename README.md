@@ -16,7 +16,7 @@ I am a 21 year-old Aspiring Web Developer.
 
 
 
-## Language and Tools 🚧
+## Languages and Tools ⚙️⚒️
 
 <p>
     <img src = "https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
