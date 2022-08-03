@@ -1,16 +1,15 @@
 ## Hello World, I am Melvin Dionisio 👽
 [![Linkedin Badge](https://img.shields.io/badge/-MelvinDionisio-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-dionisio-302b0b209/)](https://www.linkedin.com/in/melvin-dionisio-302b0b209/) 
-[![Gmail Badge](https://img.shields.io/badge/-melvinnudo.dionisio021@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:melvinnudo.dionisio021@gmail.com)](mailto:melvinnudo.dionisio021@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-mlvndev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mlvndev@gmail.com)](mailto:mlvndev@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-melvindionisio-grey?style=flat&logo=github&logoColor=white&link=https://github.com/melvindionisio/)](https://www.github.com/melvindionisio/) 
 
 
 
 ### AboutMe
 <p>
-I am a 21 year-old Aspiring Web Developer.
+I am a 22 year-old Aspiring Web Developer.
 </p>
 
-- 🔭 I’m currently working on our Capstone Project
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 🚀 To the moon!
 
