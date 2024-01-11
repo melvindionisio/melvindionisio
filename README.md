@@ -1,10 +1,10 @@
 # Hello World, I am Melvin Dionisio 👽
 
-![DevCard](devcard.svg)
-
 [![Linkedin Badge](https://img.shields.io/badge/-MelvinDionisio-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvin-dionisio-302b0b209/)](https://www.linkedin.com/in/melvin-dionisio-302b0b209/)
 [![Gmail Badge](https://img.shields.io/badge/-mlvndev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mlvndev@gmail.com)](mailto:mlvndev@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-melvindionisio-grey?style=flat&logo=github&logoColor=white&link=https://github.com/melvindionisio/)](https://www.github.com/melvindionisio/)
+
+<a href="https://app.daily.dev/melvindionisio" target="_blank"><img width="256" align="right" src="devcard.svg"/></a>
 
 ## AboutMe
 
