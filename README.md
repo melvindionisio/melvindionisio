@@ -8,7 +8,7 @@
 
 ## AboutMe
 
-I am a 22 year-old Aspiring Web Developer.
+I am a 23 year-old Aspiring Web Developer.
 
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 🚀 To the moon!
