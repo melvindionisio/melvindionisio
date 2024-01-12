@@ -15,14 +15,16 @@ I am a 23 year-old Aspiring Web Developer.
 
 ## Languages and Tools ⚙️⚒️
 
+### Front End
 ![HTML Icon](https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Icon](https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Icon](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS Icon](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### Back End
 ![NodeJS Icon](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS Icon](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
-
+### Tech Tools
 ![NPM Icon](https://img.shields.io/badge/NPM%20-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Yarn Icon](https://img.shields.io/badge/Yarn%20-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge)
 ![Git Icon](https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge)
