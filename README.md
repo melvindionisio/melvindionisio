@@ -33,11 +33,10 @@ I am a 23 year-old Aspiring Web Developer 🕸️.
 ## My Github Stats &#x1f4c8;
 
 ![Melvin's Profile Views](https://komarev.com/ghpvc/?username=melvindionisio)
-
+<!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=melvindionisio&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/rajk3770/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melvindionisio&layout=compact&theme=gruvbox)](https://github.com/rajk3770/github-readme-stats)
-
 <!--
 **melvindionisio/melvindionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
