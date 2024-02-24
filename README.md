@@ -8,9 +8,9 @@
 
 ## AboutMe
 
-I am a 23 year-old Aspiring Web Developer 🕸️.
+I am a 24 year-old Tech Enthusiast 🕸️.
 
-- 🌱 I’m currently into Cyber Security 🛡️
+- 🌱 I’m currently learning Cyber Security 🛡️
 - 🚀 To the moon!
 
 ## Languages and Tools ⚙️⚒️
