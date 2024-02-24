@@ -10,7 +10,7 @@
 
 I am a 23 year-old Aspiring Web Developer 🕸️.
 
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently into Cyber Security 🛡️
 - 🚀 To the moon!
 
 ## Languages and Tools ⚙️⚒️
